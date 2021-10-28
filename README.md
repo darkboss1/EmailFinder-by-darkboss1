@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/python-3.6+-blue.svg?style=flat-square&logo=python"> 
   </a>
    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-    <img src="https://img.shields.io/badge/license-GNU-green.svg?style=square&logo=gnu">
-   <a href="https://twitter.com/JosueEncinar">
-    <img src="https://img.shields.io/badge/author-@JosueEncinar-orange.svg?style=square&logo=twitter">
+    
+   <a href="https://crackersbay.com/">
+    
   </a>
 </p>
 
